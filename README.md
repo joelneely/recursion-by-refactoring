@@ -1,6 +1,6 @@
 # recursion-by-refactoring
 
-A step-by-step approach to recursion by refactoring from obvious but limited code to a clean recursive version.
+_A step-by-step approach to recursion by refactoring from obvious but limited code to a clean recursive version._
 
 I have long believed that the most "complicated" thing about recursion is the explanations offered when it is taught poorly. This represents my attempt to help in that regard. The project takes a couple of basic tasks and incrementally refactors their solutions into recursive form, attempting to make each step as painless as possible.
 
