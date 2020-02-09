@@ -14,3 +14,20 @@ This is a work in process; the next step after initial set up will be documentat
 
 Yes, the title is dry and boring. I thought about calling it "Recursing without cursing", but am still kicking around alternatives. I am not in marketing.
 
+## Patterns and Idioms
+
+### Double-crossing and obstacle
+
+An obstacle lies between you and your goal. This is bad. Sometimes the quickest solution is to _double-cross_ the obstacle, as illustrated below.
+
+<img src="images/double-cross.png">
+
+You're walking along the bank of the river toward the goal, and an obstacle comes into view. Maybe it's a steep gully, or quicksand, or a briar patch, or a moat filled with sharks with laser beams strapped to their heads. But the opposite bank of the river offers smooth, easy walking. So...
+
+* Cross to the opposite bank;
+* Walk on that side until near the goal; and then
+* Cross back to the original side to reach the goal.
+
+That's why I called it a "double-cross". But what does that look like in practice?
+
+Stay tuned for the next update to these notes!
