@@ -20,7 +20,7 @@ Yes, the title is dry and boring. I thought about calling it "Recursing without 
 
 An obstacle lies between you and your goal. This is bad. Sometimes the quickest solution is to _double-cross_ the obstacle, as illustrated below.
 
-<img src="images/double-cross.png">
+<img src="images/double-cross.gif">
 
 You're walking along the bank of the river toward the goal, and an obstacle comes into view. Maybe it's a steep gully, or quicksand, or a briar patch, or a moat filled with sharks with laser beams strapped to their heads. But the opposite bank of the river offers smooth, easy walking. So...
 
