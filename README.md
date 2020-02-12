@@ -16,6 +16,17 @@ Yes, the title is dry and boring. I thought about calling it "Recursing without 
 
 ## Patterns and Idioms
 
+I have found re-usable patterns and principles to be very helpful in thinking through design, problem-solving, and defect resolution tasks. Below is an informal list of such practices that I will apply throughout this project.
+
+### Use structures to manage data and code
+
+Let's start with two of the basic structures, one for data and one for code.
+
+* Use an array to hold a sequence or collection of values, rather than individual variables or literal.
+* Use a function to represent a collection of activity, rather than writing it over and over or requiring the reader to wade through the details in-line.
+
+Both of these are techniques for consciously organizing (and naming) parts of what we're building. They are so familiar that I won't belabor their description or benefits here.
+
 ### Double-crossing and obstacle
 
 An obstacle lies between you and your goal. This is bad. Sometimes the quickest solution is to _double-cross_ the obstacle, as illustrated below.
