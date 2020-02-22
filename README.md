@@ -22,12 +22,15 @@ I have found re-usable patterns and principles to be very helpful in thinking th
 
 Let's start with two of the basic structures, one for data and one for code.
 
-* Use an array to hold a sequence or collection of values, to avoid the cost of:
-	* keeping up with individual variable names and their relationships, or
-	* using literal values and having to ensure their consistent use.
-* Use a function to represent a collection of activity, rather than writing it over and over or requiring the reader to wade through the details in-line.
+* Use an array to hold a sequence or collection of values, to avoid the costs of:
+	* keeping up with individual variable names and their relationships, and
+	* ensuring consistent literal values, where each occurrence represents an opportunity for typographic errors.
+* Use a function to represent a collection of activity, to avoid the costs of:
+	* writing the same code over and over,
+	* having to make future changes multiple times (consistently!), and
+	* requiring the reader to wade through the details in-line in order to understand intent.
 
-Both of these are techniques for consciously organizing (and naming) parts of what we're building. They are so familiar that I won't belabor their description or benefits here.
+Both of these are techniques for consciously organizing (and naming) parts of what we're building. They are so familiar that I won't belabor their description or benefits further here.
 
 ### Double-crossing and obstacle
 
