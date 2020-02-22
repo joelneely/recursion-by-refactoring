@@ -74,7 +74,7 @@ and want to sort them e.g. by last name, then birthdate, then first name, (with 
 
 First, map the array to an array of new entries decorated with the key for each (computed only once).
 
-``javascript
+```javascript
 [
 	['DOE:1974-08-12:JOHN',{
 		name: 'John Doe',
