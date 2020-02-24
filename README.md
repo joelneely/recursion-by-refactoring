@@ -4,7 +4,7 @@ _A step-by-step approach to recursion by refactoring from obvious but limited co
 
 I have long believed that the most "complicated" thing about recursion is the explanations offered when it is taught poorly. This represents my attempt to help in that regard. The project takes a couple of basic tasks and incrementally refactors their solutions into recursive form, attempting to make each step as painless as possible.
 
-The project uses Node.js because it is widely used and readily available. No value judgment is expressed or implied about the merits or demerits of JavaScript versus any other language.
+The project uses Node.js because it is widely used and readily available. No value judgment is expressed or implied about the pros and cons of JavaScript versus any other language.
 
 ## Status
 
@@ -16,7 +16,7 @@ Yes, the title is dry and boring. I thought about calling it "Recursing without 
 
 ## Patterns and Idioms
 
-I have found re-usable patterns and principles to be very helpful in thinking through design, problem-solving, and defect resolution tasks. Below is an informal list of such practices that I will apply throughout this project.
+I have found re-usable patterns and principles to be very helpful in thinking through design, problem-solving, and bug-fixing tasks. Below is an informal list of such practices that I will apply throughout this project.
 
 ### Use structures to manage data and code
 
@@ -27,10 +27,10 @@ Let's start with two of the basic structures, one for data and one for code.
 	* ensuring consistent literal values, where each occurrence represents an opportunity for typographic errors.
 * Use a function to represent a collection of activity, to avoid the costs of:
 	* writing the same code over and over,
-	* having to make future changes multiple times (consistently!), and
+	* having to keep future changes in synch across all the duplicates, and
 	* requiring the reader to wade through the details in-line in order to understand intent.
 
-Both of these are techniques for consciously organizing (and naming) parts of what we're building. They are so familiar that I won't belabor their description or benefits further here.
+Both of these are techniques for consciously organizing (and naming) parts of what we're building. They are so familiar that I won't spend more time discussing them here.
 
 ### Double-crossing and obstacle
 
