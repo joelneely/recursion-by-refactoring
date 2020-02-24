@@ -52,6 +52,8 @@ When we replaced the old hood vent over our kitchen stove with a microwave oven,
 
 I took measurements, then performed my design experiments by cutting and taping cardboard pieces until I had an entire structure that I could build outside the cabinet and slide into place. Then I used the cardboard sections as templates to cut the sheet metal parts, which I then assembled and installed.
 
+<img src="images/double-cross2.gif">
+
 So, in this case, the two river banks were the two materials, each of which was better suited for part of the overall task.
 
 #### Double-crossing a sorting problems
@@ -87,6 +89,8 @@ First, map the array to an array of new entries decorated with the key for each 
 ```
 
 Then sort the resulting array by the pre-computed keys, and finally map the new structures back by ripping off the keys and retaining only the original content.
+
+<img src="images/double-cross3.gif">
 
 In this case, crossing the river means moving from a representation that requires repeated key extraction to one that prepares the keys (once per entry), and re-crossing the river is removing the keys after they are no longer needed.
 
